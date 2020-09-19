@@ -1,0 +1,12 @@
+.box {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background: red; 
+}
+
+body {
+    background: url(../img/simple.jpg), rgb(191, 192, 192);
+    font-family: 'Courier New', Courier, monospace;
+}
+

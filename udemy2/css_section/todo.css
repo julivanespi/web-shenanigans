@@ -1,0 +1,14 @@
+/*Element*/
+li{
+    color: blue;
+}
+
+/*id*/
+#rd {
+    background-color: pink;
+}
+
+/*class*/
+.completed {
+    text-decoration: line-through;
+}

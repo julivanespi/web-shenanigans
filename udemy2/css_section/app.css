@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+    text-align: center;
+}
+
+h4{
+    color: purple;
+}
+
+li {
+    color: blue;
+}
+
+body{
+    background-color: green;
+    background-image: url(ice_cream.jpg);
+    background-size: cover;
+}
